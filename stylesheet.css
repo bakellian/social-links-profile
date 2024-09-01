@@ -59,3 +59,7 @@ span {
     background-color:#C4F82A;
     color: #141414;
 }
+
+selector:focus {
+    background: #C4F82A; 
+}
