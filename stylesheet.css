@@ -20,8 +20,9 @@ body {
     padding: 2.5rem;
 }
 
-.profile-pic-image-wrapper {
-    border-radius: 100%;
+.headshot {
+    border-radius: 50%;
+    max-width: 5.5rem;
 }
 
 span {
